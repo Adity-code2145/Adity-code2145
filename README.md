@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **adityasharma14807@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** My Backend Development
-- 🌱 **I’m currently learning:** DSA,Node.ja,Express.js,MongoDB,React.js,System Design
+- 🌱 **I’m currently learning:** DSA,Node.js,Express.js,MongoDB,React.js,System Design
 - 👯 **I’m looking to collaborate on:** Citizen Care Portal
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** adityasharma14807@gmail.com
